@@ -1,0 +1,32 @@
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\bin\Debug\PartyProject.exe.config
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\bin\Debug\PartyProject.exe
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\bin\Debug\PartyProject.pdb
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\bin\Debug\PartyProject.xml
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\obj\Debug\PartyProject.vbprojResolveAssemblyReference.cache
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\obj\Debug\PartyProject.Creation.resources
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\obj\Debug\PartyProject.Game.resources
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\obj\Debug\PartyProject.Launch.resources
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\obj\Debug\PartyProject.Resources.resources
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\obj\Debug\PartyProject.vbproj.GenerateResource.Cache
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\obj\Debug\PartyProject.exe
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\obj\Debug\PartyProject.xml
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\obj\Debug\PartyProject.pdb
+C:\Users\at18t\Documents\Visual Studio 2015\Projects\Party\PartyProject\PartyProject\obj\Debug\PartyProject.Log.resources
+H:\Alex Tanner's Epic Adventures Of Awesome Porportions\P2 WIP\PartyProject\PartyProject\bin\Debug\PartyProject.exe.config
+H:\Alex Tanner's Epic Adventures Of Awesome Porportions\P2 WIP\PartyProject\PartyProject\obj\Debug\PartyProject.exe
+H:\Alex Tanner's Epic Adventures Of Awesome Porportions\P2 WIP\PartyProject\PartyProject\obj\Debug\PartyProject.xml
+H:\Alex Tanner's Epic Adventures Of Awesome Porportions\P2 WIP\PartyProject\PartyProject\obj\Debug\PartyProject.pdb
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\bin\Debug\PartyProject.exe.config
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\obj\Debug\PartyProject.exe
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\obj\Debug\PartyProject.xml
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\obj\Debug\PartyProject.pdb
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\bin\Debug\PartyProject.exe
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\bin\Debug\PartyProject.pdb
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\bin\Debug\PartyProject.xml
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\obj\Debug\PartyProject.vbprojResolveAssemblyReference.cache
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\obj\Debug\PartyProject.Creation.resources
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\obj\Debug\PartyProject.Game.resources
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\obj\Debug\PartyProject.Launch.resources
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\obj\Debug\PartyProject.Log.resources
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\obj\Debug\PartyProject.Resources.resources
+C:\Users\at18t\Desktop\Personal Projects\7-25-17\Code Party\PartyProject\PartyProject\obj\Debug\PartyProject.vbproj.GenerateResource.Cache
